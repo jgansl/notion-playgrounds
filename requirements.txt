@@ -1,0 +1,4 @@
+jupyter
+notion-client
+python-dotenv
+openai
