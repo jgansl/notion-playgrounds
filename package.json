@@ -1,0 +1,13 @@
+{
+  "name": "notion-playgrounds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://jgansl@github.com/jgansl/notion-playgrounds.git",
+  "author": "jgansl <jessegansler@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "env":"echo source env/bin/activate",
+    "test":"python -m pytest",
+    "jupyter":"python -m jupyter notebook"
+  }
+}

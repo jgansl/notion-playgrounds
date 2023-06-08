@@ -1,4 +1,10 @@
+python-dotenv
+pytest
+pytest-dotenv
+
 jupyter
 notion-client
-python-dotenv
 openai
+
+flask
+flask_restplus
