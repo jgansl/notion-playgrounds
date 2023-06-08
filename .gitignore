@@ -1,5 +1,5 @@
 env
-.env.development
+*.env*
 node_modules
 .pytest_cache
 **/*/__pycache__
